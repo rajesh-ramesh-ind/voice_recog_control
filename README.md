@@ -1,5 +1,5 @@
 # voice_recog_control
-Using google's Speech API to control LED
+Using google's Speech API in python3 to control arduino uno board to light up a LED
 It uses following modules
   pyserial,
   time,
@@ -17,5 +17,5 @@ It uses following modules
 7.try to check your voice command with the declared list
 8. if your command matches with the list declare a function and statements
 
-before using this command you need to ensure that arduino serial program has to be declared in arduino board
+before using this command you need to ensure that arduino serial program has to be burned into in arduino board
 
